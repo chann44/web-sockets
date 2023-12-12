@@ -1,0 +1,13 @@
+{
+  "name": "bare-bone",
+  "version": "0.0.1",
+  "description": "building web socket server",
+  "main": "index.js",
+  "repository": "https://github.com/chann44/web-sockets",
+  "author": "chann44",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
